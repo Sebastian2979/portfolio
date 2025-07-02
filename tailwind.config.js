@@ -16,7 +16,7 @@ export default {
             },
         },
         backgroundImage: {
-            'home': "url('http://laravel-portfolio.test/images/portfolio-background.png')",
+            'home': "url('https://portfolio-main-o3er6e.laravel.cloud/images/portfolio-background.png')",
             'sebastian': "url('http://laravel-portfolio.test/images/sebastian.png')",
             
         }
